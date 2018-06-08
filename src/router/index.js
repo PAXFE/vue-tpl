@@ -63,6 +63,7 @@ export default new Router({
 })
 
 export const asyncRouterMap = [
+  // 权限设置
   {
     path: '/permission',
     component: Layout,
